@@ -1,4 +1,4 @@
-package com.example.simpleApp;
+package com.example.simpleApp.controller;
 
 import com.example.simpleApp.domain.Group;
 import com.example.simpleApp.domain.Student;
